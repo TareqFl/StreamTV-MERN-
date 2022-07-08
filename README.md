@@ -43,5 +43,5 @@ NMS Streaming Server
 </p>
 
 
-![giphy](https://media2.giphy.com/media/K7guK5xuPTfCNegdin/giphy.gif?cid=ecf05e4714ae6d5a02ecf99d6a030b971f5ea2a01d5983b2&rid=giphy.gif&ct=g)
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Uu2eHS7Sef69sRTNGw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Uu2eHS7Sef69sRTNGw">via GIPHY</a></p>
