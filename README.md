@@ -44,4 +44,4 @@ NMS Streaming Server
 
 
 
-<img src='https://media.giphy.com/media/Uu2eHS7Sef69sRTNGw/giphy.gif' />
+<img align="Center" src='https://media.giphy.com/media/Uu2eHS7Sef69sRTNGw/giphy.gif' />
