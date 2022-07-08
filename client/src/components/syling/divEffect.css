@@ -1,0 +1,16 @@
+.pictureEffect:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px 5px purple;
+    transition: transform 300ms;
+}
+
+.images {
+    max-width: 380px;
+    max-height: 285px;
+}
+
+.PlayerEffect:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px 5px purple;
+    transition: transform 300ms;
+}

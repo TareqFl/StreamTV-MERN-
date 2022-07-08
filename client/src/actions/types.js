@@ -1,0 +1,9 @@
+export const FETCH_STREAMS = 'FETCH_STREAMS';
+export const FETCH_STREAMER = 'FETCH_STREAMER';
+export const FETCH_ALL_STREAMERS = 'FETCH_ALL_STREAMERS';
+export const FETCH_IRL_STREAMS = 'FETCH_IRL_STREAMS';
+export const FETCH_MY_STREAM = 'FETCH_MY_STREAM';
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const DARK_MODE = ' DARK_MODE';
+export const LIGHT_MODE = 'LIGHT_MODE';
